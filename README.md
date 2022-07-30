@@ -1,8 +1,8 @@
 # zsh_config
 
 This config based on original kali .zshrc
-
 Features:
+
   *Multiline PROMPT
   
   *Conciseness

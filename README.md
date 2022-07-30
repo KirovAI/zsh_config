@@ -10,7 +10,8 @@ Installation:
  
  3)execute: 'source .zshrc' from home directory
  
- 4) You may install additiional packages for better experiense work:        sudo apt install zsh-syntax-highlighting zsh-autosuggestions command-not-found
+ 4) You may install additiional packages for better experiense work:        
+ 5) sudo apt install zsh-syntax-highlighting zsh-autosuggestions command-not-found
    
  5) Enjoy!
  

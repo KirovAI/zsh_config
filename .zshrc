@@ -12,8 +12,6 @@ setopt numericglobsort     # sort filenames numerically when it makes sense
 setopt no_prompt_{bang,subst} prompt_{cr,percent,sp}
 WORDCHARS=${WORDCHARS//\/} # Don't consider certain characters part of the word
 
-#syntax highlighting
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # hide EOL sign ('%')
 PROMPT_EOL_MARK=""

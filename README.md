@@ -4,9 +4,9 @@ This config based on original kali .zshrc
 
 Installation:
 
- 1)install zsh-package with your packet-manager(In my OS: 'sudo apt install zsh')
+ 1) Install zsh-package with your packet-manager(In my OS: 'sudo apt install zsh')
  
- 2)download file .zshrc from this repository or just copy whole code and insert it's into .zshrc file, previously removed your own config.( .zshrc located in home directory)
+ 2) Download file .zshrc from this repository or just copy whole code and insert it's into .zshrc file, previously removed your own config.( .zshrc located in home directory)
  
  3)execute: 'source .zshrc' from home directory
  
@@ -17,22 +17,22 @@ Installation:
  
 Features:
 
-  *Multiline PROMPT
+  * Multiline PROMPT
   
-  *Conciseness
+  * Conciseness
   
-  *Speed
+  * Speed
   
-  *Independeness from third-party fonts
+  * Independeness from third-party fonts
   
-  *Marker of background process
+  * Marker of background process
   
-  *Git status
+  * Git status
   
-  *Current terminal(tty or pts)
+  * Current terminal(tty or pts)
   
-  *Time and date
+  * Time and date
   
-  *Marker of ssh
+  * Marker of ssh
 
 P.S.: It is a light config intended for self usage. If you want more, you should download additional plugins.
